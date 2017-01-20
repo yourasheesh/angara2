@@ -1,2 +1,2 @@
-# angara2
-Angara version 2
+# anmage2
+Anmage version 2
